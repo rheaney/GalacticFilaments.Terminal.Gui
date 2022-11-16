@@ -1,0 +1,3 @@
+Using the PR "Adds true color support #1628" from gui-cs/Terminal.Gui (https://github.com/gui-cs/Terminal.Gui/pull/1628/files), I added true color support to the Terminal.
+
+https://github.com/gui-cs/Terminal.Gui/pull/1628/files#diff-dc4db744a2e6c314e407e8dc7a3851b6745df2cacf65ca9cc304e83fbba7d963
